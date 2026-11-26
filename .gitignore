@@ -1,0 +1,7 @@
+node_modules/
+data/appointments.json
+data/appointments.*.json
+.env
+.env.*
+!.env.example
+npm-debug.log*
